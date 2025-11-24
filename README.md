@@ -5,22 +5,17 @@
 
 ### 개발 환경
 <p align="center">
-  <img width="600" alt="ECC 개발환경 drawio" src="https://github.com/user-attachments/assets/a27bcc0c-3156-4a36-8434-c5b30572054f" />
-</p>
-
-### 프로덕션 환경
-<p align="center">
-  <img width="600" alt="ECC 기술 아키텍처 drawio" src="https://github.com/user-attachments/assets/40fb6dbe-5002-4c9e-8265-58875f441351" />
+  <img width="600" alt="개발환경" src="https://github.com/user-attachments/assets/bb79e22e-6e2b-4ffb-b759-bf3776e31d0e" />
 </p>
 
 ### 프로덕션 환경 (프리티어 종료 대비 버전)
 <p align="center">
-  <img width="400" alt="ECC 기술 아키텍처(프리티어 종료버전) drawio" src="https://github.com/user-attachments/assets/6e52f500-8a17-48ce-9190-0ca2396b2f04" />
+  <img width="600" alt="프로덕션" src="https://github.com/user-attachments/assets/6a2dd8df-bb73-4290-8930-aa186bc03870" />
 </p>
 
 ## 📊 Data Architecture Diagram
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1aafe7ea-06ef-4ee5-a551-316cb3f590ff" alt="Data Architecture" height="350" />
+  <img width="612" alt="image" src="https://github.com/user-attachments/assets/7722408d-5c51-4b55-a017-ced9fcae4e25" />
 </p>
 
 ## 🛠️ 기술 스택
