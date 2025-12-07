@@ -1,5 +1,5 @@
 # 단일 스테이지: 실행만
-FROM openjdk:17-jdk-slim
+FROM eclipse-temurin:17-jre-jammy
 
 WORKDIR /app
 
